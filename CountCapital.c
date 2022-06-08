@@ -1,8 +1,8 @@
 /*
 Input : Hello World
-Decimal : 2
-Octal : marvellous
-Hexadecimal : 0
+Output : 2
+Input : marvellous
+Output : 0
 */
 
 #include<stdio.h>
